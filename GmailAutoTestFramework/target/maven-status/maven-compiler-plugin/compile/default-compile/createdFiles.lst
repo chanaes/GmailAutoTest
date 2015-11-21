@@ -1,0 +1,7 @@
+com\ebase\qa\pageobjects\CreateAccountPage.class
+com\ebase\qa\App.class
+com\ebase\qa\pageobjects\SignInPage.class
+com\ebase\qa\core\BasePage.class
+com\ebase\qa\pageobjects\UserInboxPage.class
+com\ebase\qa\utils\DriverFactory.class
+com\ebase\qa\utils\Browser.class

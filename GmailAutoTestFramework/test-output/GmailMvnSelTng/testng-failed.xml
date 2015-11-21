@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GmailMvnSelTng]">
+  <test name="GmailSignIn(failed)">
+    <classes>
+      <class name="com.ebase.qa.gmail.tests.SignInTest">
+        <methods>
+          <include name="initTest"/>
+          <include name="userLogin" invocation-numbers="0 1"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ebase.qa.gmail.tests.SignInTest -->
+    </classes>
+  </test> <!-- GmailSignIn(failed) -->
+</suite> <!-- Failed suite [GmailMvnSelTng] -->

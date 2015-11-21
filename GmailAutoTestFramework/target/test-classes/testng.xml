@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="GmailMvnSelTng">
+   <test name="GmailSignIn">
+      <classes>
+         <class name="com.ebase.qa.gmail.tests.SignInTest" />
+      </classes>
+   </test>
+</suite>
