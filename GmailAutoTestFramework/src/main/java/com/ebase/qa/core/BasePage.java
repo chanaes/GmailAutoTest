@@ -3,6 +3,7 @@ package com.ebase.qa.core;
 import org.openqa.selenium.WebDriver;
 
 public abstract class BasePage {
+	// Lets do something...
 	
 	protected WebDriver driver;
 	
